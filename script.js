@@ -318,7 +318,7 @@ const REVIEWS = [
   });
 
   // Web app URL from the Google Apps Script deployment (see setup/booking-apps-script.gs)
-  const BOOKING_URL = '';
+  const BOOKING_URL = 'https://script.google.com/macros/s/AKfycbweWdKUME_xgqr2HHIiNaGpK9rNOie524eTG2hg3nwicSAsBt0GYfHl2GZ4sVV-Q_4mqA/exec';
 
   const submitBtn     = document.getElementById('bookingSubmit');
   const formFields    = document.getElementById('bookingForm');
